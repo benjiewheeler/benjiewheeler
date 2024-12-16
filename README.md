@@ -12,14 +12,14 @@
 - **[memobench](https://github.com/benjiewheeler/memobench)**: [Creator] - Tool for benchmarking Solana RPC nodes
 - **[pump.vision](https://pump.vision)**: [Former lead developer of the website] - Trading data aggregator for [@pumpdotfun](https://x.com/pumpdotfun)
 - **PnL Discord Bots**: [Creator] - Custom discord bots for displaying profit-and-loss data for traders (Kawaii Labs, OrbitFlare & others)
-- **Trading Bots**: [Creator] - Custom trading bots for Solana,
+- **Trading Bots**: [Creator] - Various custom trading bots for Solana, Raydium and pump.fun bots & pending sniper detectors
 - **Blockchain Projects**: [Creator] - Various tools and applications across various blockchains
   - **[banano-visualization](https://github.com/benjiewheeler/banano-visualization)**: Tool for visualizing [banano](https://banano.cc/) transactions with D3.js
   - **[farmers-bot](https://github.com/benjiewheeler/farmers-bot)**: Bot for automating claiming/farming actions for Farmers World game on WAX blockchain
   - **[ezstake](https://github.com/benjiewheeler/ezstake)**: Smart contract for customizable NFT staking using Atomicassets standard on WAX blockchain
   - **[timely-reward](https://github.com/benjiewheeler/timely-reward)**: Configurable Time-locked rewards smart contract for WAX Blockchain
-  - **[gift.star](https://github.com/benjiewheeler/gift.star)**: Smart contract for creating secure claim links for fungible tokens on WAX
   - **[stakeclaim](https://github.com/benjiewheeler/stakeclaim)**: Utility to automate voting & claiming rewards daily on the WAX blockchain
+  - **[gift.star](https://github.com/benjiewheeler/gift.star)**: Smart contract for creating secure claim links for fungible tokens on WAX
 
 ### Contact me
 I'm always looking for the next opportunity to make something cool, I'll be happy to chat!
